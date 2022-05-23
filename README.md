@@ -8,7 +8,9 @@ Some other essential skills are **Android SDK**, **Responsive Layouts**, **Third
 ## Apps
 I've been working on different kind of apps for clients as required (maintenance is not included). Some of the apps i've developed are as follows: 
 
-### Hello Doctor (Digital Healthcare Service)
+# Hello Doctor (Digital Healthcare Service)
 [Hello Doctor](https://play.google.com/store/apps/details?id=com.app.hellodoctor.patient) is a online Telemedicine App. The basic requirements for the app were that it help address the health related problem by providing reliable online health platform which connects the Certified and Authorised Doctor’s to the Clients / Patients face to face on video / chat / audio calling.
 
 I'm quite happy with the final product: HelloDoctor was built entirely in Swift, with no external dependencies, and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
+
+![Hello Doctor](https://github.com/Umar2247/Android-Portfolio/blob/main/hello%20doctor.png)
