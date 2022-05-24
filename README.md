@@ -13,7 +13,7 @@ I've been working on different kind of apps for various clients according to the
 # Techovative Apps
 iHealthCure is Healthcare Suite by [Techovative](https://play.google.com/store/apps/developer?id=Techovative.), a best choice for Patient’s Healthcare Management in digital health era and specialized in Telemedicine, Clinical Practice Management System PMS, Hospital Management System HMS, HMIS, HIS, Laboratory Information & Management System LIMS, Pharmacy Management System. HealthCure is covering every field of medical including Diagnostics, Laboratories, Pharmacy, Medical Records, History of medicine and all doctors appointments.<br>
 While working with techovative, i've developed different customized apps for various clients (hospitals/clinics/labs etc.) according to the requirements, mainly for their patients and doctors.
-![iHealthCure](https://github.com/Umar2247/Android-Portfolio/blob/main/hello%20doctor.png)
+![iHealthCure](https://github.com/Umar2247/Android-Portfolio/blob/main/ihealthcure.png)
 
 # Hello Doctor (Digital Healthcare Service)
 [Hello Doctor](https://play.google.com/store/apps/details?id=com.app.hellodoctor.patient) is a healthcare facility/telemedicine App. The basic idea of the app was that it should help in addressing the health related problem by providing reliable online health platform which connects the certified and authorised doctor’s to the patients by video/chat/audio calling.
