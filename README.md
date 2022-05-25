@@ -23,6 +23,12 @@ While working with techovative, i've developed different customized apps for var
 [Hello Doctor](https://play.google.com/store/apps/details?id=com.app.hellodoctor.patient) is a healthcare facility/telemedicine App. The basic idea of the app was that it should help in addressing the health related problem by providing reliable online health platform which connects the certified and authorised doctor’s to the patients by video/chat/audio calling.
 ![Hello Doctor](https://github.com/Umar2247/Android-Portfolio/blob/main/hello%20doctor.png)
 
+# JobMatch Finance
+[JobMatch Finance](https://play.google.com/store/apps/details?id=com.jobmatchfinance.jobseeker) is an application that provides access to the client to different jobs avilable in the market. Application has a job pool that provide help to the related people. Employers can post and manage jobs and related jobseekers. Jobseekers can make and manage job settings and related job offers. 
+
+# JomWork
+[JomWork](https://play.google.com/store/apps/details?id=com.jobmatchfinance.jobseeker) is an application contains the database of employee from different fields and help different people to find a part time job. Employers can post and manage jobs while users can find nearby jobs on hourly basis.
+
 # Crypto Buddy
 Access analytical market and price data on more than 1000 cryptocurrencies.
 - Access detailed up to date market information anytime and anywhere
@@ -33,7 +39,10 @@ Access analytical market and price data on more than 1000 cryptocurrencies.
 
 # Rate My Trait
 A user post pictures and allow other users to rate that pictures and to connect with him/her.
-(Android, MySQL, Notifications, Chat, PHP, Web Server)
+
 ![Rate My Trait](https://github.com/Umar2247/Android-Portfolio/blob/main/rate%20my%20trait.jpeg)
+
+# Pocket Receipts
+An app for users to manage receipts more efficiently.
 
 
