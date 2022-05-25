@@ -25,9 +25,11 @@ While working with techovative, i've developed different customized apps for var
 
 # JobMatch Finance
 [JobMatch Finance](https://play.google.com/store/apps/details?id=com.jobmatchfinance.jobseeker) is an application that provides access to the client to different jobs avilable in the market. Application has a job pool that provide help to the related people. Employers can post and manage jobs and related jobseekers. Jobseekers can make and manage job settings and related job offers. 
+![JobMatch Finance](https://github.com/Umar2247/Android-Portfolio/blob/main/jobmatch%20finance.jpeg)
 
 # JomWork
-[JomWork](https://play.google.com/store/apps/details?id=com.jobmatchfinance.jobseeker) is an application contains the database of employee from different fields and help different people to find a part time job. Employers can post and manage jobs while users can find nearby jobs on hourly basis.
+[JomWork](https://www.facebook.com/JomWork) is an application contains the database of employee from different fields and help different people to find a part time job. Employers can post and manage jobs while users can find nearby jobs on hourly basis.
+![JomWork](https://github.com/Umar2247/Android-Portfolio/blob/main/jomwork.jpeg)
 
 # Crypto Buddy
 Access analytical market and price data on more than 1000 cryptocurrencies.
