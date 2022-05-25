@@ -1,5 +1,5 @@
 # Muhammad Umar - Android Developer
-Working as Android Developer since more than 6 years. Developed native android apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience and data security. I am striving to keep me up with new technologies.
+Working as Android Developer since more than 6 years. Developed native android apps ranging from simple apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience and quality assurance. I am striving to keep me up with new technologies.
 
 ## Skills
 **Languages:** Java And Kotlin<br>
@@ -22,3 +22,11 @@ While working with techovative, i've developed different customized apps for var
 # Hello Doctor (Digital Healthcare Service)
 [Hello Doctor](https://play.google.com/store/apps/details?id=com.app.hellodoctor.patient) is a healthcare facility/telemedicine App. The basic idea of the app was that it should help in addressing the health related problem by providing reliable online health platform which connects the certified and authorised doctor’s to the patients by video/chat/audio calling.
 ![Hello Doctor](https://github.com/Umar2247/Android-Portfolio/blob/main/hello%20doctor.png)
+
+# Crypto Buddy
+Access analytical market and price data on more than 1000 cryptocurrencies.
+- Access detailed up to date market information anytime and anywhere
+- Check the social impact and news on each coin
+- Chart View
+
+
