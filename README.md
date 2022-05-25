@@ -47,7 +47,7 @@ Access analytical market and price data on more than 1000 cryptocurrencies.
 ![TransitioningU](https://github.com/Umar2247/Android-Portfolio/blob/main/transitioning%20u.png)
 
 # Mahalkum
-[Mahalkum](https://play.google.com/store/apps/details?id=com.mahalkum)is a fast, beautiful and social way to share your Merchandise with friends, family and the world.
+[Mahalkum](https://play.google.com/store/apps/details?id=com.mahalkum) is a fast, beautiful and social way to share your Merchandise with friends, family and the world.
 ![Mahalkum](https://github.com/Umar2247/Android-Portfolio/blob/main/mahalkum.png)
 
 # Rate My Trait
