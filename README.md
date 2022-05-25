@@ -28,5 +28,6 @@ Access analytical market and price data on more than 1000 cryptocurrencies.
 - Access detailed up to date market information anytime and anywhere
 - Check the social impact and news on each coin
 - Chart View
+![Crypto Buddy](https://github.com/Umar2247/Android-Portfolio/blob/main/crypto%20buddy.jpeg)
 
 
