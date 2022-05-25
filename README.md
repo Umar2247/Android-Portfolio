@@ -28,6 +28,12 @@ Access analytical market and price data on more than 1000 cryptocurrencies.
 - Access detailed up to date market information anytime and anywhere
 - Check the social impact and news on each coin
 - Chart View
+
 ![Crypto Buddy](https://github.com/Umar2247/Android-Portfolio/blob/main/crypto%20buddy.jpeg)
+
+# Rate My Trait
+A user post pictures and allow other users to rate that pictures and to connect with him/her.
+(Android, MySQL, Notifications, Chat, PHP, Web Server)
+![Rate My Trait](https://github.com/Umar2247/Android-Portfolio/blob/main/rate%20my%20trait.jpeg)
 
 
