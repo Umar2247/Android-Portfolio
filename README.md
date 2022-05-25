@@ -41,6 +41,15 @@ Access analytical market and price data on more than 1000 cryptocurrencies.
 
 ![Crypto Buddy](https://github.com/Umar2247/Android-Portfolio/blob/main/crypto%20buddy.jpeg)
 
+# TransitioningU
+[TransitioningU](https://play.google.com/store/apps/details?id=com.transitioningu.us) was created to educate, guide and support individuals going through a major change in their lives, which Connects Students with College and Advisors.Provides a well thought Milestones to share student carrier.
+
+![TransitioningU](https://github.com/Umar2247/Android-Portfolio/blob/main/transitioning%20u.png)
+
+# Mahalkum
+[Mahalkum](https://play.google.com/store/apps/details?id=com.mahalkum)is a fast, beautiful and social way to share your Merchandise with friends, family and the world.
+![Mahalkum](https://github.com/Umar2247/Android-Portfolio/blob/main/mahalkum.png)
+
 # Rate My Trait
 A user post pictures and allow other users to rate that pictures and to connect with him/her.
 
